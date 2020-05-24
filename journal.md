@@ -31,3 +31,7 @@ James' Hamilton and Mayfield at the center:
 Some intriguing edges:
 ![ss8](ss8.png)
 ![ss9](ss9.png)
+
+### Bonus Assignment
+Becuase I had some extra time, I took a crack at the bonus assignment, but gave up after getting this error:
+![ss10](ss10.png) 
